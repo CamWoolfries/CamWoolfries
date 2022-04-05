@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamWoolfries
 - 👀 I’m interested in DevOps and automation.
-- 🌱 I’m currently learning Terraform and other DevOps methodologies.
+- 🌱 I’m currently learning Terraform, Jenkins, Python, Docker and DevOps methodologies.
 - 💞️ I’m looking to collaborate on almost anything.
 - 📫 How to reach me ...
 
